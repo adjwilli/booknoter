@@ -44,7 +44,7 @@ For development:
 flutter run
 ```
 
-Please note this app has only been tested and vetted on Chrome, iOS 18.5, MacOS 15.5, and Android SDK 36. Running on Linux or Window (or other versions the other targets) may require additional set up.
+Please note this app has only been tested and vetted on Chrome, iOS 18.5, MacOS 15.5, and Android SDK 36. Running on Linux or Window (or other versions of the other targets) may require additional set up.
 
 
 ## Project Structure
