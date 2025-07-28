@@ -11,7 +11,9 @@ BookNoter is a Flutter application that allows users to search for books, view d
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="250" alt="Screenshot 2025-07-28 at 1 13 58 PM" src="https://github.com/user-attachments/assets/d083fb39-d2dd-430a-8b9d-a98c2d9527bb" />
+<img width="250" alt="Screenshot 2025-07-28 at 1 14 24 PM" src="https://github.com/user-attachments/assets/0c2488bd-c812-4bb1-aa34-aa6931be2010" />
+<img width="250" alt="Screenshot 2025-07-28 at 1 14 51 PM" src="https://github.com/user-attachments/assets/351568ce-a65d-4e7b-9ce5-2b4777189f6f" />
 
 ### Prerequisites
 
